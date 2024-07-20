@@ -42,5 +42,4 @@ There may be occasions where it is not appropriate to run your app inside a cont
 
 This will add your current directory as a volume to the container, set the working directory to the volume, and run the command `gcc -o myapp myapp.c` - which tells gcc to compile the code in myapp.c and output the executable to myapp.
 
-
 ## Errors
