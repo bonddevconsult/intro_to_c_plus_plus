@@ -32,6 +32,8 @@ This is for about 5ish reasons
 
 So essentially, I'm doing this a bit more complicated to give everyone who uses this a learning opportunity. We don't have to do it this way, but, trust me it's worth it.
 
+If you get sick of trying to build the containers, you can always test your code on [cpp.sh](https://cpp.sh)
+
 ## Dev notes
 
 - "C++ is a language that has evolved much over the years, and these tutorials explain many features added recently to the language. Therefore, in order to properly follow the tutorials, a recent compiler is needed. It shall support (even if only partially) the features introduced by the 2011 standard."
